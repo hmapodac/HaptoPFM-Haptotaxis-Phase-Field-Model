@@ -1,0 +1,15 @@
+name: phasemodel1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - fipy=3.4.3
+  - pandas
+  - numpy
+  - scipy
+  - fastparquet
+  - matplotlib
+  - petsc
+  - petsc4py
+  - moviepy
