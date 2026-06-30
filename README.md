@@ -1,6 +1,7 @@
 # HaptoPFM-Haptotaxis-Phase-Field-Model
 
 ## A phase field model with stochastic input that simulates cellular gradient sensing, morphodynamics, and fidelity of haptotaxis.
+PMCID: PMC13060809  PMID: 41959168
 
 This repository contains the code used to run a phase field cell migration model that simulates signaling and morphodynamics in response to stochastic adhesion gradients. It was developed for the PLOS Computational Biology publication with the same title.
 
