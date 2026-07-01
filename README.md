@@ -47,6 +47,7 @@ After the loop finishes, movies of cell migration and the adhesion network are g
 
 ## Contributors
 
-- Jason Haugh, jmhaugh@ncsu.edu
 - Joseph Koelbl, jmkoelbl96@gmail.com
 - Hector Apodaca, hmapodac@ncsu.edu
+- Jason Haugh, jmhaugh@ncsu.edu
+
